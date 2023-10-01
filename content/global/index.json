@@ -32,7 +32,7 @@
   },
   "theme": {
     "color": "blue",
-    "font": "sans",
-    "darkMode": "system"
+    "font": "nunito",
+    "darkMode": "light"
   }
 }
